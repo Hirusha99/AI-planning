@@ -30,7 +30,8 @@ We need singularity and WSL 2 as prerequisites.
    Install the Linux kernel package
    
    https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-3---enable-virtual-machine-feature
-   In Ubuntu-22.04
+
+    In Ubuntu-22.04
    ```
    wsl --set-version Ubuntu-22.04 2
    ```
