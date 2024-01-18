@@ -41,7 +41,10 @@ We need singularity and WSL 2 as prerequisites.
    ```
 ## Installation of Singularities
 
+Singularity is a software environment which allows you to downlod, create, modify, and run containers from various sources (including Dockerhub) on a multiuser Linux system.
+
 What is the purpose of the singularity container?
+
 Singularity containers let users run applications in a Linux environment of their choosing. Possible uses for Singularity on Biowulf: Run an application that was built for a different distribution of Linux than the host OS. Reproduce an environment to run a workflow created by someone else.
 
 ```
